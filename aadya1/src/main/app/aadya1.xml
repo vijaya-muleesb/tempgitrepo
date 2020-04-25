@@ -15,7 +15,7 @@ http://www.mulesoft.org/schema/mule/ee/dw http://www.mulesoft.org/schema/mule/ee
 %output application/java
 ---
 {
-	"name":"aadya"
+	"name":"aadya 1"
 }]]></dw:set-payload>
 		</dw:transform-message>
 	</flow>
